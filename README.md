@@ -36,3 +36,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="React" alt="React" width="40" height="40"/>
 </div>
+
+---
+### My certificates
+[Data analyst](https://github.com/MaestroD123/Yandex_Praktikum/blob/main/Certificate_en.pdf)
