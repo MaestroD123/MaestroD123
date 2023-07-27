@@ -39,4 +39,5 @@
 
 ---
 ### My certificates
-[Data analyst](https://github.com/MaestroD123/Yandex_Praktikum/blob/main/Certificate_en.pdf)
+[Data analyst](https://github.com/MaestroD123/Yandex_Praktikum/blob/main/Certificate_en.pdf)   
+[Penetration testers](https://github.com/MaestroD123/Yandex_Praktikum/blob/main/en_ZSA.pdf)
